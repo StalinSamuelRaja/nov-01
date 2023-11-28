@@ -1,6 +1,6 @@
 # React + Vite
 
-This Site will provide a Course and news details using react when you click Full Stack Development it will show you the FSD content when you click cyber security it will navigate to CS Contnet Likewise for all
+This Site will provide a Course Details using react when you click Full Stack Development it will show you the FSD content when you click cyber security it will navigate to CS Contnet Likewise for all
 
 ## To Run Application
 `
